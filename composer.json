@@ -1,0 +1,11 @@
+{
+    "name": "carlos/teste-composer4",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Carlos\\TesteComposer4\\": "src/",
+            "src\\": "src/"
+        }
+    },
+    "require": {}
+}
